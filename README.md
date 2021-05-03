@@ -1,24 +1,10 @@
-# README
+# What
+こちらの教材の検証コード
+[教材](https://www.techpit.jp/courses/123/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# 学習内容（抜粋）
+* RailsにVue.jsを組み合わせたWebアプリケーションの作成方法
+* Webpackerの導入と基本
+* APIについて
+* Axiosを使った非同期通信
+* Vue.jsの基礎
